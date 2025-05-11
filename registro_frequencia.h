@@ -9,3 +9,4 @@ typedef struct {
 } RegistroFrequencia;
 
 void registrar_frequencia(RegistroFrequencia* registro);
+#endif
